@@ -7,3 +7,5 @@ Opcode decoder created in VHDL that will receive a three bit opcode and produce 
 101 = DEC
 110 = BRA
 111 = BEQ
+
+Includes design file and corresponding testbench to verify design
